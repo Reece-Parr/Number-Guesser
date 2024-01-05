@@ -1,0 +1,14 @@
+C:\Users\reece\Desktop\Peregrine Training (CSWE)\Programming\Week 1\Day 2\Number Guesser\bin\Debug\net7.0\Number Guesser.exe
+C:\Users\reece\Desktop\Peregrine Training (CSWE)\Programming\Week 1\Day 2\Number Guesser\bin\Debug\net7.0\Number Guesser.deps.json
+C:\Users\reece\Desktop\Peregrine Training (CSWE)\Programming\Week 1\Day 2\Number Guesser\bin\Debug\net7.0\Number Guesser.runtimeconfig.json
+C:\Users\reece\Desktop\Peregrine Training (CSWE)\Programming\Week 1\Day 2\Number Guesser\bin\Debug\net7.0\Number Guesser.dll
+C:\Users\reece\Desktop\Peregrine Training (CSWE)\Programming\Week 1\Day 2\Number Guesser\bin\Debug\net7.0\Number Guesser.pdb
+C:\Users\reece\Desktop\Peregrine Training (CSWE)\Programming\Week 1\Day 2\Number Guesser\obj\Debug\net7.0\Number Guesser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reece\Desktop\Peregrine Training (CSWE)\Programming\Week 1\Day 2\Number Guesser\obj\Debug\net7.0\Number Guesser.AssemblyInfoInputs.cache
+C:\Users\reece\Desktop\Peregrine Training (CSWE)\Programming\Week 1\Day 2\Number Guesser\obj\Debug\net7.0\Number Guesser.AssemblyInfo.cs
+C:\Users\reece\Desktop\Peregrine Training (CSWE)\Programming\Week 1\Day 2\Number Guesser\obj\Debug\net7.0\Number Guesser.csproj.CoreCompileInputs.cache
+C:\Users\reece\Desktop\Peregrine Training (CSWE)\Programming\Week 1\Day 2\Number Guesser\obj\Debug\net7.0\Number Guesser.dll
+C:\Users\reece\Desktop\Peregrine Training (CSWE)\Programming\Week 1\Day 2\Number Guesser\obj\Debug\net7.0\refint\Number Guesser.dll
+C:\Users\reece\Desktop\Peregrine Training (CSWE)\Programming\Week 1\Day 2\Number Guesser\obj\Debug\net7.0\Number Guesser.pdb
+C:\Users\reece\Desktop\Peregrine Training (CSWE)\Programming\Week 1\Day 2\Number Guesser\obj\Debug\net7.0\Number Guesser.genruntimeconfig.cache
+C:\Users\reece\Desktop\Peregrine Training (CSWE)\Programming\Week 1\Day 2\Number Guesser\obj\Debug\net7.0\ref\Number Guesser.dll
